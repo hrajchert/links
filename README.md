@@ -27,3 +27,7 @@ https://frontendmasters.com/courses/asynchronous-javascript/
 Los ejercicios del curso
 http://reactivex.io/learnrx/
 
+### Teoría de categorias
+http://www.inf.pucrs.br/~alfio/TReports/catti.pdf (a leer)
+https://arxiv.org/pdf/1612.09375v1.pdf (a leer)
+https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/ (a leer)
