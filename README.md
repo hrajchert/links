@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=avwDj3KRuLc
 Curso de Dr.Boolean en frontend masters
 https://frontendmasters.com/courses/functional-javascript/
 
+Tutorial de haskell
+http://learnyouahaskell.com/introduction
+
 Entender conceptualmente que es un monad (con fotos)
 http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 
